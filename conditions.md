@@ -62,10 +62,10 @@ if (nombre > 0) {
 
 Mettez en place une condition JavaScript dans une fonction "determinerMention()" qui prend en compte les notes d'un étudiant et détermine sa mention en fonction de sa note. Les mentions sont définies comme suit :
 
-- Une note entre 0 et 10 inclus : "Insuffisant"
-- Une note entre 10 et 12 inclus : "Passable"
-- Une note entre 12 et 14 inclus : "Assez bien"
-- Une note entre 14 et 16 inclus : "Bien"
+- Une note entre 0 et 9 inclus : "Insuffisant"
+- Une note entre 10 et 11 inclus : "Passable"
+- Une note entre 12 et 13 inclus : "Assez bien"
+- Une note entre 14 et 15 inclus : "Bien"
 - Une note entre 16 et 20 inclus : "Très bien"
 
 Affichez ensuite la mention obtenue par l'étudiant en fonction de sa note.
